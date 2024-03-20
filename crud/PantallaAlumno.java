@@ -96,7 +96,7 @@ public class PantallaAlumno extends JFrame {
 
 	public PantallaAlumno() {
 
-		setTitle("CRUD ALUMNO BY RENE");
+		setTitle("CRUD ALUMNO BY RENE dfgsdfgsd");
 
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
